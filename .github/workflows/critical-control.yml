@@ -53,3 +53,4 @@ jobs:
           echo "WRITE_PROOF_BRANCH=${BR}"
           echo "WRITE_PROOF_HTTP=${CODE}"
           test "$CODE" = 201
+
